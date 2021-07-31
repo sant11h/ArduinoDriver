@@ -107,6 +107,7 @@
     <EmbeddedResource Include="ArduinoListener\ArduinoListener.ino.NanoR3.hex" />
     <EmbeddedResource Include="ArduinoListener\ArduinoListener.ino.Micro.hex" />
     <EmbeddedResource Include="ArduinoListener\ArduinoListener.ino.Leonardo.hex" />
+    <EmbeddedResource Include="ArduinoListener\ArduinoListener.ino.ProMicro.hex" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
